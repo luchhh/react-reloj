@@ -1,0 +1,19 @@
+.reloj{
+    max-width: 35em;
+}
+
+.circulo{
+    width: 10em;
+    height: 10em;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: 2px solid green;
+    line-height: 10em;
+    text-align: center;
+}
+
+.circulo-confondo{
+    background-color: green;
+}
+
